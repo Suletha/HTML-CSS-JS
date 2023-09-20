@@ -12,24 +12,31 @@
 </head>
 <body>
     <div class="container">
-        <div class="row">
+        <div class="row row-cols-2">
             <div class="col">
-                <div class="box">suletha</div>
+                <div class="box"></div>
             </div>
             
             <div class="col">
-                <div class="box">gopi</div>
+                <div class="box"></div>
             </div>
             <div class="col">
-                <div class="box">sarah</div>
+                <div class="box"></div>
             </div>
             <div class="col">
-                <div class="box">sam</div>
+                <div class="box"></div>
             </div>
         </div>
     </div>
     
 
+
+        
+    
+
+    
+</body>
+</html>
 
         
     
