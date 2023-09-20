@@ -14,8 +14,14 @@
     <div class="container">
         <form>
             <label for="email" class="form-label">Email:</label>
-            <input type="email"  id="email" class="form-control">
+            <!---<input type="email"  id="email" value="abcd@gmail.com" class="form-control"> --->
+            <select class="form-select">
+                <option>1</option>
+                <option>2</option>
+                <option>3</option>
+            </select>
             <button>Submit</button>
+
 
         </form>
         
