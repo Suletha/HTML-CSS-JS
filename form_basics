@@ -14,11 +14,22 @@
     <div class="container">
         <form>
             <div class="form-floating">
-                <input type="email"  id="email" class="form-control" placeholder="Leave ur email here">
+                <input type="email"  id="email" class="form-control is-valid" placeholder="Leave ur email here">
                 <label for="email">Email:</label>
+                <div class="invalid-feedback"> Invalid Email</div>
+                <div class="valid-feedback"> valid Email</div>
                
                 <button>Submit</button>
             </div>
+            <script>
+                const form = document.querySelector("form")
+                form.addEventListener('submit',e => {
+                    if (!form.checkValidity()){
+                        e.preventDefault()
+                    }
+                    form.classList.add('was-validated')
+                })
+            </script>
             
 
 
