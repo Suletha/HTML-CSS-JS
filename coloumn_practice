@@ -1,4 +1,4 @@
-<<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -12,18 +12,35 @@
 </head>
 <body>
     <div class="container">
-        <div class="row row-cols-2 gx-3">
+        <div class="row row-cols-2 g-3">
             <div class="col">
-                <div class="box"></div>
+                <div class="row">
+                    <div class="col"><div class="box"></div></div>
+                    <div class="col"><div class="box"></div></div>
+                </div>
+
+
             </div>
             
-            <div class="col gy-3">
+            <div class="col ">
                 <div class="box"></div>
             </div>
             <div class="col">
                 <div class="box"></div>
             </div>
-            <div class="col g-3">
+            <div class="col">
+                <div class="box"></div>
+            </div>
+            <div class="col">
+                <div class="box"></div>
+            </div>
+            <div class="col">
+                <div class="box"></div>
+            </div>
+            <div class="col">
+                <div class="box"></div>
+            </div>
+            <div class="col">
                 <div class="box"></div>
             </div>
         </div>
@@ -37,18 +54,6 @@
     
 </body>
 </html>
-
-
-        
-    
-
-    
-</body>
-</html>
-
-        
-    
-
     
 </body>
 </html>
