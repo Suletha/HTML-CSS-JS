@@ -12,7 +12,7 @@
 </head>
 <body>
     <div class="container">
-        <table class="table">
+        <table class="table table-primary">
             <thead>
                 <tr>
                     <th>First</th>
@@ -34,6 +34,27 @@
                 <tr>
                     <td>Sarah Aditi</td>
                     <td>G</td>
+                    <td>3</td>
+                </tr>
+                <tr>
+                    <td>Samriddhi</td>
+                    <td>G</td>
+                    <td>1</td>
+                </tr>
+
+            </tbody>
+
+        </table>
+        
+       
+
+
+        
+    
+
+    
+</body>
+</html>                    <td>G</td>
                     <td>3</td>
                 </tr>
                 <tr>
