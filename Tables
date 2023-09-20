@@ -12,15 +12,23 @@
 </head>
 <body>
     <div class="container">
-        <table class="table table-striped">
-            <thead>
+        <div class="table-responsive">
+            <table class="table">
+                <thead>
                 <tr>
                     <th>First</th>
                     <th>Last</th>
                     <th>Age</th>
+                    <th>Age</th>
+                    <th>Age</th>
+                    <th>Age</th>
+                    <th>Age</th>
+                    <th>Age</th>
+                    <th>Age</th>
+                    
                 </tr>
-            </thead>
-            <tbody>
+                </thead>
+                <tbody class="table-group-divider">
                 <tr>
                     <td>Gopi</td>
                     <td>KR</td>
@@ -42,9 +50,12 @@
                     <td>1</td>
                 </tr>
 
-            </tbody>
+                </tbody>
 
-        </table>
+            </table>
+        </div>
+             
+        
         
        
 
