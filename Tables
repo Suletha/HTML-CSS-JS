@@ -12,9 +12,9 @@
 </head>
 <body>
     <div class="container">
-        <table class="table">
+        <table class="table table-striped">
             <thead>
-                <tr class="table-dark">
+                <tr>
                     <th>First</th>
                     <th>Last</th>
                     <th>Age</th>
@@ -22,22 +22,22 @@
             </thead>
             <tbody>
                 <tr>
-                    <td class="table-primary">Gopi</td>
+                    <td>Gopi</td>
                     <td>KR</td>
                     <td>42</td>
                 </tr>
                 <tr>
                     <td>Suletha</td>
                     <td>Lenin</td>
-                    <td class="table-secondary">30</td>
+                    <td>30</td>
                 </tr>
                 <tr>
                     <td>Sarah Aditi</td>
                     <td>G</td>
-                    <td class="table-success">3</td>
+                    <td>3</td>
                 </tr>
                 <tr>
-                    <td class="table-danger">Samriddhi</td>
+                    <td>Samriddhi</td>
                     <td>G</td>
                     <td>1</td>
                 </tr>
