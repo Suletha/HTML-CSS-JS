@@ -12,11 +12,13 @@
 </head>
 <body>
     <div class="container">
-        <div class="card">
-            <div class="card" style="width: 300px;">
+        <div class="card" style="width: 300px;">
+            <div class="card" style="width: 200px;">
+                <h2 class="card-header">Header</h2>
                 <img class="card-img-top" src="/python.jpg"/>
                 <div class="card-body"></div>
             </div>
+            
 
             
             
@@ -25,9 +27,15 @@
                 
                 <h1 class="card-title">Title</h1>
                 <h3 class="card-subtitle">Subtitle</h3>
-                <div class="card-text"></div>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vero adipisci earum, voluptas nisi, inventore nobis voluptatibus repellat sint velit at quibusdam, vel obcaecati iste quis provident expedita. Ratione, itaque incidunt.
+                <div class="card-text"> 
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vero adipisci earum, 
+                    voluptas nisi, inventore nobis voluptatibus repellat sint velit at quibusdam.
+                </div>
+                    
+                   
+                <h2 class="card-footer">Footer</h2>
             </div>
+
         </div>
        
     </div>
