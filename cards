@@ -14,8 +14,8 @@
     <div class="container">
         <div class="card">
             <div class="card-body">
-                <div class="card-title">Title</div>
-                <div class="card-subtitle">Subtitle</div>
+                <h1 class="card-title">Title</h1>
+                <h3 class="card-subtitle">Subtitle</h3>
                 <div class="card-text"></div>
                 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vero adipisci earum, voluptas nisi, inventore nobis voluptatibus repellat sint velit at quibusdam, vel obcaecati iste quis provident expedita. Ratione, itaque incidunt.
             </div>
