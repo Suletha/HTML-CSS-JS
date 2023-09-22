@@ -12,7 +12,7 @@
 </head>
 <body>
     <div class="container">
-        <div class="btn-group btn-group">
+        <div class="btn-group btn-group-vertical">
         <button class="btn btn-outline-primary" data-bs-toggle="button">Test</button>
         <a class="btn btn-outline-primary">Test</a>
         <a class="btn btn-outline-primary">Test</a>
